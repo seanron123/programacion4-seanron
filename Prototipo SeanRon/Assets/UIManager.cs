@@ -33,7 +33,7 @@ public class UIManager : MonoBehaviour
 
     private void ApagarPaneles()
     {
-        panelMenu.SetActive(false);
+        //panelMenu.SetActive(false);
         panelCloset.SetActive(false);
         panelHacerOutfit.SetActive(false);
         panelInspo.SetActive(false);

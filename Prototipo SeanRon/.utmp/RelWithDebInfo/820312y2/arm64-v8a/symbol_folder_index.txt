@@ -1,0 +1,1 @@
+C:\Users\ETEC\programacion4-seanron\Prototipo SeanRon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\820312y2\obj\arm64-v8a
